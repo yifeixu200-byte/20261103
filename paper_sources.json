@@ -1,0 +1,264 @@
+{
+  "paper": "E:\\桌面\\world Model\\DIMA-扩散.pdf",
+  "sha256": "3ee51fe1addc48e0191b6fe9c9e74fcd3bd13fcf4c07f2b51e86b90d258365ba",
+  "pages": 32,
+  "official_commit": "3dcacaa80162cf6822bf5972b4e3ad4cb2e6ceb0",
+  "links": [
+    {
+      "page": 1,
+      "url": "https://github.com/breez3young/DIMA"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=S1lOTC4tDS"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=0oabwyZbOu"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=vhFu1Acb0xb"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=TdBaDGCpjly"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=Oxh5CstDJU"
+    },
+    {
+      "page": 11,
+      "url": "https://openreview.net/forum?id=CpnKq3UJwp"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=P8pqeEkn1H"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=k7FuTOWMOc7"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=D29JbExncTP"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=EpnZEzYDUT"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=EpnZEzYDUT"
+    },
+    {
+      "page": 12,
+      "url": "https://github.com/karpathy/minGPT"
+    },
+    {
+      "page": 12,
+      "url": "https://openreview.net/forum?id=8ishA3LxN8"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/1706.05296"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/1706.05296"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/1803.11485"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2103.01955"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2103.01955"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2209.00796"
+    },
+    {
+      "page": 13,
+      "url": "https://openreview.net/forum?id=AHvFDPi-FA"
+    },
+    {
+      "page": 13,
+      "url": "https://openreview.net/forum?id=ldVkAO09Km"
+    },
+    {
+      "page": 13,
+      "url": "https://openreview.net/forum?id=btpgDo4u4j"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2502.00361"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2502.00361"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2405.16173"
+    },
+    {
+      "page": 13,
+      "url": "https://arxiv.org/abs/2307.01849"
+    },
+    {
+      "page": 13,
+      "url": "https://api.semanticscholar.org/CorpusID:263908842"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2312.08533"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=bo8q5MRcwy"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=bo8q5MRcwy"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=sFyTZEqmUY"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=sFyTZEqmUY"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=kHjOmAUfVe"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=kHjOmAUfVe"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/1905.05408"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2008.01062"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/1705.08926"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/1705.08926"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=EcGGFkNTxdJ"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=EcGGFkNTxdJ"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/1910.00120"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2207.11143"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2207.11143"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2303.17984"
+    },
+    {
+      "page": 14,
+      "url": "https://arxiv.org/abs/2301.04104"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=OTFKVkxSlL"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=S1xCPJHtDB"
+    },
+    {
+      "page": 14,
+      "url": "https://openreview.net/forum?id=S1xCPJHtDB"
+    },
+    {
+      "page": 15,
+      "url": "http://jmlr.org/papers/v25/23-0488.html"
+    },
+    {
+      "page": 15,
+      "url": "https://openreview.net/forum?id=tmqOhBC4a5"
+    },
+    {
+      "page": 15,
+      "url": "https://openreview.net/forum?id=tmqOhBC4a5"
+    },
+    {
+      "page": 18,
+      "url": "https://nips.cc/public/guides/CodeSubmissionPolicy"
+    },
+    {
+      "page": 18,
+      "url": "https://nips.cc/public/guides/CodeSubmissionPolicy"
+    },
+    {
+      "page": 18,
+      "url": "https://nips.cc/public/guides/CodeSubmissionPolicy"
+    },
+    {
+      "page": 18,
+      "url": "https://nips.cc/public/guides/CodeSubmissionPolicy"
+    },
+    {
+      "page": 19,
+      "url": "https://neurips.cc/public/EthicsGuidelines"
+    },
+    {
+      "page": 20,
+      "url": "paperswithcode.com/datasets"
+    },
+    {
+      "page": 22,
+      "url": "https://neurips.cc/Conferences/2025/LLM"
+    },
+    {
+      "page": 28,
+      "url": "https://github.com/lucidrains/vector-quantize-pytorch"
+    },
+    {
+      "page": 28,
+      "url": "https://github.com/lucidrains/vector-quantize-pytorch"
+    },
+    {
+      "page": 29,
+      "url": "https://github.com/breez3young/MARIE"
+    },
+    {
+      "page": 29,
+      "url": "https://github.com/jbr-ai-labs/mamba"
+    },
+    {
+      "page": 29,
+      "url": "https://github.com/PKU-MARL/HARL"
+    }
+  ]
+}

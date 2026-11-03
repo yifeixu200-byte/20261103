@@ -1,0 +1,20 @@
+{
+  "status": "PASS_SYNTHETIC_ONLY",
+  "device": "cpu",
+  "torch": "2.4.1+cu121",
+  "denoising_loss": 1.0705100297927856,
+  "decoder_mse": 0.9698719382286072,
+  "reward_terminal_loss": 0.9860254526138306,
+  "checked": [
+    "diffusion backward",
+    "current-action masking",
+    "E.5 explicit order",
+    "Euler/Heun/churn finite",
+    "generic denoising repeat count",
+    "FSQ gradient and encode/decode consistency",
+    "reward/terminal backward",
+    "transformer causality",
+    "actor PPO ratio/backward and centralized critic backward"
+  ],
+  "simulator_training": "NOT_RUN"
+}

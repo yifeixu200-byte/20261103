@@ -1,0 +1,24 @@
+{
+  "python": "3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "packages": {
+    "torch": true,
+    "torchvision": true,
+    "numpy": true,
+    "einops": false,
+    "ray": false,
+    "wandb": false,
+    "gym": false,
+    "mujoco_py": false,
+    "isaacgym": false,
+    "tensorboard": false,
+    "termcolor": false,
+    "ipdb": false
+  },
+  "mujoco210_directory": false,
+  "torch": "2.4.1+cu121",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "vram_gib": 3.99951171875,
+  "note": "Presence is not simulator or training validation."
+}
